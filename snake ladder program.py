@@ -40,10 +40,11 @@ while(count<=100):
         elif count==97:
                count=76
                print("snake bit count is",count)
-        elif count>=100:
+        elif count==100:
                print("win")
         else:
             print("continue the game")
+print("out of range")           
             
         
             
